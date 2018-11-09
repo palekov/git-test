@@ -1,3 +1,2 @@
-alert "main.js";
-// kkkoiyy
-//jjjjj
+alert "ahtung!!!";
+/
