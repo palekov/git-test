@@ -1,1 +1,2 @@
 alert "main.js";
+// kkkoiyy
